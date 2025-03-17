@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    margin: 20px;
+}
+
+.editor-container {
+    margin: 20px auto;
+    width: 80%;
+}
+
+button {
+    margin-top: 10px;
+}
